@@ -4,4 +4,4 @@
       
 - 👀 Algorithm, PS
 
-      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choyj427)](https://solved.ac/choyj427/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
