@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
       
  # Cho Yejin😃
       
@@ -18,12 +18,4 @@
 <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
-```cpp
-#include<iostream>
-using namespace std;
-int main() {
-      cout << "Hello World!" << endl;
-      return 0;
-}
-```
 </div>
